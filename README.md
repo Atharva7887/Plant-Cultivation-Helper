@@ -1,6 +1,6 @@
 Plant Cultivation Helper Website
 
-### Project Description: Plant Cultivation Helper Website  
+### [Project Description: Plant Cultivation Helper Website](https://planthelper.netlify.app/)  
 
 **Objective:**  
 The Plant Cultivation Helper Website is designed to assist gardening enthusiasts in nurturing their plants effectively. By providing customized care instructions based on the plant type, height, and environmental conditions, this platform aims to simplify plant care for users and promote healthy plant growth.
@@ -135,7 +135,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For queries or support, contact the project maintainer at:
 - **Email**: your-email@example.com
-- **GitHub**: [Atharva7887)](https://github.com/Atharva7887).
+- **GitHub**: [Atharva7887](https://github.com/Atharva7887).
 
 
 
