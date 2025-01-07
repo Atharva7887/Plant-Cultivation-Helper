@@ -58,7 +58,88 @@ The Plant Cultivation Helper Website is designed to assist gardening enthusiasts
 - Enable location-based customization to account for weather conditions and regional soil types.  
 - Integrate a reminder system for watering and composting schedules.  
 - Include multimedia guides like videos or illustrations for plant care.  
+---
 
+## Tech Stack
+
+### Languages and Frameworks:
+- **JavaScript** (96.4%)
+- **CSS** (2.5%)
+- **HTML** (1.1%)
+
+### Tools and Libraries:
+- **Vite**: For fast and efficient frontend development.
+- **OpenAI API**: For generating plant-specific care information.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Atharva7887/Plant-Cultivation-Helper
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd plant-cultivation-helper
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and navigate to:
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## Future Enhancements
+
+- **Database Integration**: Store and retrieve user preferences and frequently used plant data.
+- **Multi-Language Support**: Expand accessibility for non-English speakers.
+- **Advanced AI Features**: Provide disease detection and advanced growth tips.
+
+---
+
+## Contribution Guidelines
+
+We welcome contributions! If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your feature description"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Create a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## Contact
+For queries or support, contact the project maintainer at:
+- **Email**: your-email@example.com
+- **GitHub**: [Atharva7887)](https://github.com/Atharva7887).
+
+
+
+---
 This project bridges the gap between plant enthusiasts and expert gardening knowledge, fostering a better understanding of plant care with minimal effort.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
