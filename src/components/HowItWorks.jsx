@@ -46,6 +46,15 @@ export default function HowItWorks() {
             </div>
           ))}
         </div>
+
+        <div className="mt-10 flex justify-center">
+          <button 
+            onClick={() => navigate('/plant-form')}
+            className="w-full md:w-fit px-6 py-4 bg-lime-600 rounded-lg text-emerald-50 text-lg font-lato hover:bg-lime-700 transition-colors"
+          >
+            Start Growing Now
+          </button>
+        </div>
       </div>
     </section>
   );
